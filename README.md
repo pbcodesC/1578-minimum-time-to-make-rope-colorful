@@ -1,0 +1,1 @@
+# 1578-minimum-time-to-make-rope-colorful
